@@ -79,8 +79,7 @@ flowchart TD
 
 ---
 
-## Context: The AI Development Pipeline
+## The AI/ML Development Pipeline
 
-We position data production not as a mere prerequisite, but as a site of sociotechnical power. The image below illustrates the interwoven domains of AI (A), Data Production (D), and Community Impacts (C).
-
+Our review maps each source to a stage in the AI/ML development pipeline. The diagram below shows the pipeline framework used to organize the corpus.
 ![AI development pipeline](docs/assets/pipe2.jpg)
