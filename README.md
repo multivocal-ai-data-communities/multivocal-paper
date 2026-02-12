@@ -7,9 +7,9 @@ Anonymous Author(s)
 
 This repository contains the coded dataset and supplementary visualizations regarding the search and selection protocol used in our Multivocal Literature Review (MLR).
 
-| **Paper** | **Dataset** |
-|---|---|
-| [**Read Draft (PDF)**](docs/multivocal-ai-data-communities.pdf) | [**MLR Corpus (Excel)**](data/mlr_corpus_350.xlsx) |
+| **Paper** | **Dataset** | **Appendices** |
+|---|---|---|
+| [**Read Draft (PDF)**](docs/multivocal-ai-data-communities.pdf) | [**MLR Corpus (Excel)**](data/mlr_corpus_350.xlsx) | [**Supplementary Appendices (PDF)**](docs/supplementary-appendices.pdf) |
 
 ---
 
